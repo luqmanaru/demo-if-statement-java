@@ -22,7 +22,7 @@ You passed!
 |Kondisi	|Output	|Keterangan|
 |-------|-----------|-----------|
 |grade > 60	|Congratulations!	|Memenuhi syarat|
-|-----|You passed!	Kelulusan|
+||You passed!	|Kelulusan|
 |grade ≤ 60	|(tidak ada output)	|Tidak memenuhi|
 
 ---
